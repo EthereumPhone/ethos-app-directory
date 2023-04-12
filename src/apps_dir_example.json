@@ -1,0 +1,20 @@
+[
+    { 
+      "name": "App 1",
+      "description": "This is the first app",
+      "image_url": "https://cryptologos.cc/logos/aave-aave-logo.png",
+      "apk_url": "https://cryptologos.cc/logos/aave-aave-logo.png"
+    },
+    { 
+      "name": "App 2",
+      "description": "This is the second app",
+      "image_url": "https://cryptologos.cc/logos/sushiswap-sushi-logo.png",
+      "apk_url": "https://cryptologos.cc/logos/sushiswap-sushi-logo.png"
+    },
+    { 
+      "name": "App 3",
+      "description": "This is the third app",
+      "image_url": "https://cryptologos.cc/logos/ethereum-name-service-ens-logo.png",
+      "apk_url": "https://cryptologos.cc/logos/ethereum-name-service-ens-logo.png"
+    }
+]
